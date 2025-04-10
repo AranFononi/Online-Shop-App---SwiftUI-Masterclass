@@ -10,9 +10,22 @@
 		A4CA22B22DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Online Shop App - SwiftUI Masterclass.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A48891892DA7D82D009E1424 /* Exceptions for "Online Shop App - SwiftUI Masterclass" folder in "Online Shop App - SwiftUI Masterclass" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Online-Shop-App---SwiftUI-Masterclass-Info.plist",
+			);
+			target = A4CA22B12DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A4CA22B42DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A48891892DA7D82D009E1424 /* Exceptions for "Online Shop App - SwiftUI Masterclass" folder in "Online Shop App - SwiftUI Masterclass" target */,
+			);
 			path = "Online Shop App - SwiftUI Masterclass";
 			sourceTree = "<group>";
 		};
@@ -256,13 +269,14 @@
 				DEVELOPMENT_TEAM = 9PQRGV2T7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Online-Shop-App---SwiftUI-Masterclass-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = OnlineShop;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -286,13 +300,14 @@
 				DEVELOPMENT_TEAM = 9PQRGV2T7U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Online-Shop-App---SwiftUI-Masterclass-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = OnlineShop;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
