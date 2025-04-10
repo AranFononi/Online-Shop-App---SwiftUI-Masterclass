@@ -10,22 +10,9 @@
 		A4CA22B22DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Online Shop App - SwiftUI Masterclass.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A48891892DA7D82D009E1424 /* Exceptions for "Online Shop App - SwiftUI Masterclass" folder in "Online Shop App - SwiftUI Masterclass" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Online-Shop-App---SwiftUI-Masterclass-Info.plist",
-			);
-			target = A4CA22B12DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A4CA22B42DA7D51400B75304 /* Online Shop App - SwiftUI Masterclass */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A48891892DA7D82D009E1424 /* Exceptions for "Online Shop App - SwiftUI Masterclass" folder in "Online Shop App - SwiftUI Masterclass" target */,
-			);
 			path = "Online Shop App - SwiftUI Masterclass";
 			sourceTree = "<group>";
 		};
