@@ -30,7 +30,7 @@ struct ProductItemView: View {
                 .fontWeight(.black)
             
             // Price
-            Text("$\(product.price)")
+            Text(product.formattedPrice)
                 .fontWeight(.semibold)
                 .foregroundStyle(.gray)
         } //: VStack
