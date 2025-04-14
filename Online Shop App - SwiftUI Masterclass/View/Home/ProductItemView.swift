@@ -21,7 +21,7 @@ struct ProductItemView: View {
                     .scaledToFit()
                     .padding(10)
             } //: ZStack
-            .background(Color(red: product.color[0], green: product.color[1], blue: product.color[2]))
+            .background(Color(red: product.red, green: product.green, blue: product.blue))
             .clipShape(RoundedRectangle(cornerRadius: 12))
             
             // Name
