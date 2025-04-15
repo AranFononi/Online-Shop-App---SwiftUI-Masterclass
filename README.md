@@ -13,7 +13,7 @@ It also gave me the skills and confidence to start building real online E-commer
 
 ## 📸 Preview ( might take few seconds to load )
 
-![App Screenshot 1](Documents/Readme.gif)  
+![App Screenshot 1](Documents/NotOptimized.gif)  
 
 ![App Screenshot 2](Documents/Readme.jpg)  
 
