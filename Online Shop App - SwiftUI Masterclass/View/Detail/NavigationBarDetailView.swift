@@ -9,10 +9,15 @@ import SwiftUI
 
 struct NavigationBarDetailView: View {
     // MARK: - Property
+    @EnvironmentObject var shop: Shop
+    
     var body: some View {
         HStack {
             Button {
-                
+                withAnimation(.easeIn) {
+                    shop.showingProduct = false
+                    shop.selectedProduct = nil
+                }
             } label: {
                 Image(systemName: "chevron.left")
                     .font(.title)
