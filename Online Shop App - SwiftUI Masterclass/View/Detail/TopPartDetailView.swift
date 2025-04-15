@@ -23,7 +23,7 @@ struct TopPartDetailView: View {
                     .fontWeight(.black)
                     .scaleEffect(isAnimating ? 1.35 : 0.5 , anchor: .leading)
             } //: VStack
-            .offset(y: isAnimating ? 0 : -50)
+            .offset(y: isAnimating ? -75 : -50)
             
             Spacer()
             
