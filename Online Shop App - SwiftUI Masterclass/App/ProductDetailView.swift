@@ -18,7 +18,8 @@ struct ProductDetailView: View {
                 .padding(.top, UIApplication.shared.connectedScenes.flatMap { ($0 as? UIWindowScene)?.windows ?? [] }.first { $0.isKeyWindow }?.safeAreaInsets.top)
             
             // HEADER
-            Text(sampleProduct.name)
+            HeaderDetailView()
+                .padding(.horizontal)
             
             // DETAIL TOP PART
             
