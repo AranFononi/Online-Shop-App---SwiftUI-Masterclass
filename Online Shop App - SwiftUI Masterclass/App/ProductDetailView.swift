@@ -41,8 +41,11 @@ struct ProductDetailView: View {
                 }
                 
                 // QUANTITY AND FAVORITES
+                QuantityFavoriteDetailView()
+                    .padding(.vertical, 10)
                 
                 // ADD TO CART
+                
                 Spacer()
             } //: VStack
             .padding(.horizontal)
