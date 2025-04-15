@@ -29,6 +29,7 @@ var gridLayout: [GridItem] {
 }
 
 // UX
+let feedback = UIImpactFeedbackGenerator(style: .light)
 
 // API
 
