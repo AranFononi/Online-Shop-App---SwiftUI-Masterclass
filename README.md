@@ -57,4 +57,3 @@ If you have any project or idea in mind, feel free to reach out!
 ## 📬 Contact  
 For any questions or feedback, feel free to reach out:  
 - **Email**: [aranfononi@gmail.com](mailto:aranfononi@gmail.com)  
-- **LinkedIn**: [Aran Fononi](https://www.linkedin.com/in/aran-fononi-18182b265)  
